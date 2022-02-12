@@ -3,6 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
+![Alt Text](https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif)
+
 > Testes de implementação do instant search da algolia no nuxt js
 
 ## Install
