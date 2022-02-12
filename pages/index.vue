@@ -1,5 +1,7 @@
 <template>
-  <Tutorial />
+  <span>
+    <Search />
+  </span>
 </template>
 
 <script>
