@@ -14,7 +14,7 @@
   "dependencies": {
     "@nuxtjs/pwa": "^3.3.5",
     "algoliasearch": "^4.12.1",
-    "core-js": "^3.21.1",
+    "core-js": "^3.23.1",
     "instantsearch.css": "^7.4.5",
     "nuxt": "^2.15.8",
     "nuxt-algolia": "^0.2.0",
